@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #fffcef;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #e2dcc0;
+    font-weight: 600;
+}
+
+.bg {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+header {
+    height: 500px;
+    background-image: url('../Images/img\ 2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.caption {
+    margin: 50px 0;
+}
+
+.caption h1 {
+    color: #ebab23cb;
+    font-family: 'Parisienne', cursive;
+    font-size: 70;
+    font-weight: 500;
+    margin-bottom: 30px !important;
+}
+
+#searchInp {
+    color: #463510;
+}
+
+.btn {
+    background-color: #ebab23;
+    border: #ebab23;
+    color: #463510;
+    font-weight: bold;
+}
+
+.post {
+    background-color: #e2dcc0;
+    border: none;
+}
+
+.post h3 {
+    color: #463510;
+}
